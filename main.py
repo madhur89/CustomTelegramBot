@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext, JobQueue, ChatMemberHandler
 
-TOKEN = "6685619767:AAFMEjP3toYFgvQa7AnkIVih09STE-nqJD0"  # Replace with your bot token
+TOKEN = "Insert Bot Key"  # Replace with your bot token
 
 ADMIN_GROUP_CHAT_ID = -1001610346934  # Replace with your admin group chat ID
 
